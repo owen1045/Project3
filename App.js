@@ -29,13 +29,6 @@ export default function App() {
             <img src={image} alt="Magic The Gathering Card"></img>
           )}
         </div>
-        <footer>
-          <p id="link">
-            <a href="https://github.com/owen1045/Project3" target="_blank">
-              Github
-            </a>
-          </p>
-        </footer>
       </div>
     </div>
   );
