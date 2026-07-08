@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export default function App() {
   const placeholderUrl =
-    "https://github.com/owen1045/Project3/blob/main/backofcardcorrectsize.jpg?raw=true";
+    "https://raw.githubusercontent.com/owen1045/Project3/480d990956d62ffe6c8c7a2ae29027cc8b8b09c1/backofcardcorrectsize.jpg";
   const [image, setImage] = useState("");
   const [isGenerated, setIsGenerated] = useState(false);
 
