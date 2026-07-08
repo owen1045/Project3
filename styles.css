@@ -1,0 +1,36 @@
+html {
+  background-color: rgb(170, 168, 168);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.content {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  align-content: center;
+  gap: 5px;
+}
+h1 {
+  border-style: solid;
+  border-color: black;
+  padding: 20px;
+}
+.image {
+  border-radius: 35px;
+  overflow: hidden;
+}
+#link {
+  border-style: solid;
+  border-color: silver;
+  border-radius: 10px;
+  padding: 10px;
+  margin: auto;
+  width: 40px;
+}
+button {
+  background-color: rgb(170, 168, 168);
+  padding: 10px;
+  font-size: 20px;
+}
